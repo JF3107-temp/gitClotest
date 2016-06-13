@@ -2,4 +2,4 @@
 git_clone_test
 
 ---
-creating a new branch is quick
+creating a NEW branch is quick AND simple
